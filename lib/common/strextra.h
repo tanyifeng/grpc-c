@@ -19,7 +19,7 @@
 #include <common/env.h>
 
 #include <grpc/support/alloc.h>
-
+#include "config.h"
 /*
  * Use C linkage when using a C++ compiler
  */
